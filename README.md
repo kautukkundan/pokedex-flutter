@@ -1,6 +1,7 @@
 # POKEDEX
 
-Pokedex created using flutter
+Pokedex created using flutter.
+
 Followed this tutorial :
 https://www.youtube.com/watch?v=yeXJqZCiwTQ
 
